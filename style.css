@@ -1,16 +1,21 @@
-    body {
-       beackground: #1ed7d4
+   body {
+            beackground: #15a09e
+     }
 }
 
-h1{
-   text-align: center;
-   color: blueviolet;
+h1 {
+     text-align: center;
 }
 
-p {
+.centro{
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-em strong {
-    color: #FF0000;
-}
+
+
+
+
+
+
+
